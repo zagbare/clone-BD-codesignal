@@ -30,8 +30,7 @@ F- Lien direct vers le niveau d'arcade actuel
 
 III - CONTENU DU DASHBOARD
 
-------------------------------------------ARCADE---------------------------------------------
-
+------------------------------------------ARCADE----------------------------------------
 A - ARCADE 
 (liste des rubriques (Nom de la rubrique, information sur le contenu(nombre d'exercice résolûmes sur le nombre d'exercice total)))
 
@@ -61,4 +60,30 @@ Le nombre de toutes les solutions, les users, les langages, la date
 VI - COMMENTAIRES
 Forum de discussion lié a l'exercice en cours (user, date, message, réponse )
 Report commentaire
+
+---------------—————————————-------DAILY CHALLENGE--------------------------------------
+
+Statut (public, private...)
+All statuts (visible...)
+Niveau de difficultés (facile, difficile...)
+catégorie (front-end, database...)
+Nombre de challenge résolus
+Total challenge affiché
+
+Challenge (statut, titre, catégorie, date, date, user, nombre d'inscrits, nombres de commentaires, récompense)
+
+NB: L'interface du challenge est identique à l'arcade, à la différence du temps de la résolution 
+
+
+-------------------------------------------COMPAGNIES CHALLENGE--------------------------
+
+Nom
+Situation géographique
+Type d'entreprise
+Date de création de l'entreprise
+Nombre d'employés
+Demande d'intervention 
+Media (Image, Vidéos, url)
+Description de l'entreprise (about, langages)
+Code challenge entreprise (titre, nombre de souscripteur, récompense, le chrono, difficulté )
 
