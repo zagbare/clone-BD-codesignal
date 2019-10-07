@@ -87,3 +87,42 @@ Media (Image, Vidéos, url)
 Description de l'entreprise (about, langages)
 Code challenge entreprise (titre, nombre de souscripteur, récompense, le chrono, difficulté )
 
+
+----------------------------------------INTERVIEW PRATICE---------------------------------------------------------------
+
+Affichage des categories des plans d'étude (crash, fundamentals, extra credits, freestyle)
+Contenus detaillés des categories d'etude
+Contenus des exercices (titre, nombre challenge)
+Contenus du test (titre, entreprise, difficulté, chrono, nombre d'inscrit, nombre de commentaire, récompense)
+
+
+-------------------------------------------TOURNOIR-------------------------------------------------------------------
+
+REGULAR
+MARATHONS
+PRIVATE
+
+Bouton CREATE
+Épreuve (Nombre de participant, 5 exercices, 5 minutes pour l'exercices, récompense, commentaires)
+Un état (Running, Finished)
+
+-------------------------------------------MY PROFIL--------------------------------------------------------------------
+
+OVERVIEW
+CODE FRIENDS
+MY TAKS
+BADGES
+
+1 - OVERVIEW 
+User information (full name, username, image, email, level)
+Experience 
+Education
+2 - CODE FRIENDS
+3 - MY TAKS
+4 - BADGES (description, pourcentage, logo, types de badge)
+
+---------------------------------------FORUM-------------------------------------------------------
+
+Les categories (10)
+Postes (réactions, commentaires, category, nom, photo, titre, date)
+New poste
